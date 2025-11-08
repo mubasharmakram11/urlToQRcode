@@ -18,7 +18,7 @@ A simple Java console application that generates and displays QR codes directly 
 
 1. Clone this repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/mubasharmakram11/urlToQRcode.git
 cd urlToQRcode
 ```
 
@@ -44,3 +44,4 @@ The QR code will be displayed directly in your terminal. You can scan it with yo
 ## Contributing
 
 Feel free to submit issues and enhancement requests or contribute to the code!
+
